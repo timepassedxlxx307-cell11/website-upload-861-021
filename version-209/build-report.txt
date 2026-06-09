@@ -1,0 +1,8 @@
+parsed_movies: 2000
+movie_pages: 2000
+html_pages: 2017
+category_card_unique_movies: 2000
+categories: {'热播精选': 167, '电影片库': 167, '剧集剧场': 167, '悬疑冒险': 167, '情感治愈': 167, '都市现实': 167, '古装奇幻': 167, '动作犯罪': 167, '青春喜剧': 166, '家庭剧情': 166, '海外佳片': 166, '动漫综艺': 166}
+analytics_missing: []
+no_jpg_in_output: True
+sample_player_pages_checked: 40
